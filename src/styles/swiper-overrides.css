@@ -1,0 +1,15 @@
+/* src/styles/swiper-overrides.css */
+
+.memories-swiper .swiper-pagination-bullet {
+  background-color: #FFD1DC;
+  opacity: 0.5;
+}
+
+.memories-swiper .swiper-pagination-bullet-active {
+  background-color: #FF91A4;
+  opacity: 1;
+}
+
+.memories-swiper .swiper-pagination {
+  bottom: -50px;
+}
